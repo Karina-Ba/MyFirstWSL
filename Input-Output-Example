@@ -1,0 +1,42 @@
+Input example:
+NOdaC
+0a140a0f050a000a
+fb0ffb1400190519
+NHdpaC
+000a050a0a050a00
+0000000005000005
+NQdpaC
+000a050a0a050a00
+NQdpaC
+ec0af60a000000f6
+daA
+LaA
+
+
+
+The output of the program for this input:
+octagon {10, 0} {10, 5} {15, 10} {20, 10} {25, 5} {25, 0} {20, -5}
+{15, -5}
+area = 175.0
+hexagon {0, 10} {5, 10} {10, 5} {10, 0} {5, 0} {0, 5}
+perimeter = 34.1
+area = 75.0
+quadrilateral {0, 10} {5, 10} {10, 5} {10, 0}
+perimeter = 31.2
+area = 37.5
+quadrilateral {-10, 0} {0, 0} {10, -10} {10, -20}
+perimeter = 62.4
+area = 150.0
+octagon {10, 0} {10, 5} {15, 10} {20, 10} {25, 5} {25, 0} {20, -5}
+{15, -5}
+area = 175.0
+hexagon {0, 10} {5, 10} {10, 5} {10, 0} {5, 0} {0, 5}
+area = 75.0
+quadrilateral {0, 10} {5, 10} {10, 5} {10, 0}
+area = 37.5
+quadrilateral {-10, 0} {0, 0} {10, -10} {10, -20}
+area = 150.0
+area = 175.0
+area = 75.0
+area = 37.5
+area = 150.0
